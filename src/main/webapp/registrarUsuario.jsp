@@ -36,17 +36,3 @@
 
 </body>
 </html>
-
-//Falta agregar funcionalidades a controlador. (parte registrar usuario complementar)
-/*
-Agregar Libro
-realizar prestamo
-devolver libro
-buscar libro
-consultar préstamos
-
-Primero gestionar controlador.
-Luego los JSP.
-*/
-
-//Subir pdf que muestre el desarrolo.
